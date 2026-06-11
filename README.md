@@ -1,7 +1,7 @@
-# 🛒 Black Friday Sales Data Analysis
+# Black Friday Sales Data Analysis
 
 ## Problem Statement
-Black Friday sales data ke 537,000+ transactions analyze karke yeh samajhna ki **kaun kharidta hai, kya kharidta hai, aur kitna kharchta hai** — taaki retailers apni marketing strategy, inventory planning aur customer targeting better kar sakein.
+The objective of this project is to analyze 537,000+ Black Friday sales transactions to **identify customer purchasing behavior, product preferences, and spending patterns,** helping retailers make data-driven decisions for marketing, inventory management, and customer segmentation.
 
 ## Dataset
 - **Source:** [Kaggle / GeeksForGeeks](https://github.com/GeeksforgeeksDS/Data-Analysis-with-Python-GFG)
@@ -21,7 +21,11 @@ Black Friday sales data ke 537,000+ transactions analyze karke yeh samajhna ki *
 | 4 | **Product Category 1 & 5** are top sellers by both count and revenue |
 | 5 | **Single customers** spend slightly more per transaction than married ones |
 
-## Dashboard Previews
+
+## Dashboard Overview
+![Summary Dashboard](images/summary_dashboard.png)
+
+## Dashboard Previews:
 
 ### Customer Profile
 ![Gender Analysis](images/gender_analysis.png)
